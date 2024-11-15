@@ -5,10 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    
-    "dev": "nodemon index.js" 
+    "dev": "nodemon index.js"
   },
-  "author": "Your Name", 
+  "author": "Your Name",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
